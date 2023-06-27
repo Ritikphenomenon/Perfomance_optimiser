@@ -19,7 +19,8 @@
 
 
 
-This project is a React Node.js Vite project. To run it on your local system, you will need to have the following installed:
+# This project is a React Node.js Vite project. 
+- To run it on your local system, you will need to have the following installed:
 
 - Node.js
 - npm
