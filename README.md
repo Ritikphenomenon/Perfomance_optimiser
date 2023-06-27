@@ -6,15 +6,15 @@
 
 - Another valuable feature of the platform is the Pomodoro timer, a real-time clock that helps you manage your study sessions effectively. You can set study slots and engage in self-study sessions, optimizing your performance and productivity.
 
-- In addition to the existing features, the project aims to incorporate several exciting enhancements:
+# In addition to the existing features, the project aims to incorporate several exciting enhancements:
 
 - Real-time scoring and awards upon completing tasks, providing a sense of achievement and motivation.
 
--Mood-based music selection, where the platform fetches data from Spotify to curate a personalized music playlist based on your mood.
+- Mood-based music selection, where the platform fetches data from Spotify to curate a personalized music playlist based on your mood.
 
--Many other optimizations and features to further enhance the students' performance and overall learning experience.
+- Many other optimizations and features to further enhance the students' performance and overall learning experience.
 
--With its user-friendly interface and comprehensive set of tools, this study platform offers a complete solution for students, empowering them to study efficiently and maximize their learning potential.
+- With its user-friendly interface and comprehensive set of tools, this study platform offers a complete solution for students, empowering them to study efficiently and maximize their learning potential.
 
 
 
